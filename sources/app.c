@@ -184,7 +184,9 @@ int main(void) {
     if (op == 1) {
       sum32bits();
     } else if (op == 2) {
-      sum64bits();
+       xil_printf("******************** \r\n");
+      xil_printf("No implementado\r\n");
+      xil_printf("******************** \r\n");
     } else {
       xil_printf("******************** \r\n");
       xil_printf("No válido\r\n");
