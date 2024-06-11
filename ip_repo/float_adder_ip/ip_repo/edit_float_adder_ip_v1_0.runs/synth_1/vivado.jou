@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun Jun  2 21:22:58 2024
+# Process ID: 20195
+# Current directory: /home/leandro/Desktop/UBA/CESE/mys/tp_final/ip_repo/float_adder_ip/ip_repo/edit_float_adder_ip_v1_0.runs/synth_1
+# Command line: vivado -log float_adder_ip_v1_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source float_adder_ip_v1_0.tcl
+# Log file: /home/leandro/Desktop/UBA/CESE/mys/tp_final/ip_repo/float_adder_ip/ip_repo/edit_float_adder_ip_v1_0.runs/synth_1/float_adder_ip_v1_0.vds
+# Journal file: /home/leandro/Desktop/UBA/CESE/mys/tp_final/ip_repo/float_adder_ip/ip_repo/edit_float_adder_ip_v1_0.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source float_adder_ip_v1_0.tcl -notrace

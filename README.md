@@ -10,6 +10,7 @@ clk.
 rst. 
 start_i : start_i en 1 indica que se quiere realizar la suma de a con b. 
 
+
 El bloque tiene las siguientes salidas:
 done_o : indica que se realizó la suma y el resultado en s_o es válido.
 s_o: resultado de la suma a + b.
@@ -25,3 +26,6 @@ https://docs.google.com/presentation/d/15Og9U5eTDuLkyrA93w9BFtNq9QRBJUgmZXc6gR_X
 
 ##Esquematico y simulaciones
 schematic_float_adder.pdf se encuentra el esquematico RTL del sumador punto flotante y simulacion1.png, simulacion2.png, simulacion3.png son capturas de las simulaciones descriptas en el documento.
+
+##Git al proyecto de CLP
+https://github.com/lean1012/trabajo_final_CLP
